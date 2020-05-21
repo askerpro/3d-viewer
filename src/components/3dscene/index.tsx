@@ -46,8 +46,6 @@ const toBase64 = (file: File) =>
 const MyScene: React.FC<Props> = ({ items }) => {
   const sceneWrapperRef = React.useRef<HTMLDivElement>(null);
 
-  const [activeObject, setActiveObject] = React.useState<number>();
-
   const width = () => {
     return sceneWrapperRef.current!.getBoundingClientRect().width;
   };
