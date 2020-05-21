@@ -1,4 +1,4 @@
-## Demo (https://3d-viewer.now.sh/)
+## Demo (https://3d-viewer-rho.now.sh/)
 
 Three.js .FBX viewer
 
